@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Blazorcrud.Client
+build_property.RootNamespace = Blazorcrud.Client
+build_property.ProjectDir = /Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Person/Add.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGVyc29uL0FkZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Person/Form.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGVyc29uL0Zvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Person/List.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGVyc29uL0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Person/Update.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGVyc29uL1VwZGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Person/View.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGVyc29uL1ZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Upload/Add.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXBsb2FkL0FkZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Upload/List.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXBsb2FkL0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Upload/View.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXBsb2FkL1ZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Users/Add.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlcnMvQWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Users/Form.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlcnMvRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Users/List.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlcnMvTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Users/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlcnMvTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Users/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlcnMvTG9nb3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Users/Update.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlcnMvVXBkYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Pages/Users/View.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlcnMvVmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Shared/Alert.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0FsZXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nasir/Downloads/dotnet-blazor-crud1/Blazorcrud.Client/Shared/Pager.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1BhZ2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-yuzhleay6v
